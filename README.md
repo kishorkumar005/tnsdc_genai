@@ -1,1 +1,1 @@
-# tnstc_genai
+# tnsdc_genai
